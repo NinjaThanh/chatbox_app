@@ -1,0 +1,4 @@
+#Thu Mar 20 15:57:21 ICT 2025
+base.0=C\:\\Users\\ADMIN\\Downloads\\New folder\\chatbox_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,975 @@
+{
+   "checksum": "e6c1e2167f608c26c1b189c90b658b25",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13332880515307125",
+            "date_last_used": "0",
+            "guid": "457a033f-57ea-4fe2-8d70-1bccd1598ff5",
+            "id": "54",
+            "name": "Lịch vạn niên 2023 - Xem lịch âm, lịch dương, giờ hoàng đạo theo ngày tháng",
+            "type": "url",
+            "url": "https://www.24h.com.vn/lich-van-nien-c936.html"
+         }, {
+            "date_added": "13328337188042943",
+            "date_last_used": "0",
+            "guid": "8230b27d-8264-49ff-80f2-91c80fc6485e",
+            "id": "55",
+            "name": "QuickRef.ME - Quick Reference Cheat Sheet",
+            "type": "url",
+            "url": "https://quickref.me/"
+         }, {
+            "date_added": "13327034041606240",
+            "date_last_used": "13356032831049321",
+            "guid": "182fdce7-bbb6-48c8-b255-0472a7742bff",
+            "id": "56",
+            "name": "Việc làm Java, tuyển dụng Java lương cao Topdev.vn",
+            "type": "url",
+            "url": "https://topdev.vn/viec-lam-it/java-kt21?src=topdev_blog&medium=sidebar&campaign=anchortext"
+         }, {
+            "date_added": "13330466698620187",
+            "date_last_used": "0",
+            "guid": "4b140e40-28c8-412b-993c-f4c44185805b",
+            "id": "57",
+            "name": "Java Output Numbers / Print Numbers",
+            "type": "url",
+            "url": "https://www.w3schools.com/java/java_output_numbers.asp"
+         }, {
+            "date_added": "13328443848218861",
+            "date_last_used": "0",
+            "guid": "18ddb440-e455-4c09-96ca-aff736d2679f",
+            "id": "58",
+            "name": "Tài liệu và cách học Java, OOP từ cơ bản đến nâng cao (Phần 1)",
+            "type": "url",
+            "url": "https://viblo.asia/p/tai-lieu-va-cach-hoc-java-oop-tu-co-ban-den-nang-cao-phan-1-RnB5pzVrZPG"
+         }, {
+            "date_added": "13331990245380947",
+            "date_last_used": "0",
+            "guid": "d082d13f-340d-48e2-a6e4-525dc15fc85c",
+            "id": "59",
+            "name": "Học Java cơ bản và nâng cao",
+            "type": "url",
+            "url": "https://vietjack.com/java/"
+         }, {
+            "date_added": "13347957074990643",
+            "date_last_used": "0",
+            "guid": "cc59e827-383c-4a83-acfa-351243cf8efc",
+            "id": "60",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13329920000850458",
+            "date_last_used": "0",
+            "guid": "98829e6e-76a0-4056-aef5-10d63863b71c",
+            "id": "61",
+            "name": "Education - Microsoft Azure",
+            "type": "url",
+            "url": "https://portal.azure.com/#view/Microsoft_Azure_Education/EducationMenuBlade/~/github"
+         }, {
+            "date_added": "13354137404192633",
+            "date_last_used": "13372175362412854",
+            "guid": "4f7c8726-2cb4-4189-b346-fc291df5903a",
+            "id": "62",
+            "name": "Facebook",
+            "type": "url",
+            "url": "https://www.facebook.com/"
+         }, {
+            "date_added": "13333566892860593",
+            "date_last_used": "0",
+            "guid": "dcdbfadc-3263-4b78-b278-4e2139c9a195",
+            "id": "63",
+            "name": "Core Java Quiz | Java Online Test - javatpoint",
+            "type": "url",
+            "url": "https://www.javatpoint.com/core-java-quiz?fbclid=IwAR2x78j_1ZntO-g3TLD49F3VOdsayg0m1L4QRU86Za3UnYRXRQ6mgOmSHRQ"
+         }, {
+            "date_added": "13329737771194389",
+            "date_last_used": "0",
+            "guid": "605beb26-9cf3-4c4d-abba-a9fdde1f4a02",
+            "id": "64",
+            "name": "TEK4.VN - Cộng đồng công nghệ cho người Việt",
+            "type": "url",
+            "url": "https://tek4.vn/khoa-hoc"
+         }, {
+            "date_added": "13330802848289657",
+            "date_last_used": "0",
+            "guid": "be4a94b3-1fb8-4ae3-860c-7eaff080dca5",
+            "id": "65",
+            "name": "Học Lập Trình Online - Chia sẻ bài học miễn phí - VietTuts.Vn",
+            "type": "url",
+            "url": "https://viettuts.vn/"
+         }, {
+            "date_added": "13327086376775445",
+            "date_last_used": "0",
+            "guid": "9c860ee1-55b1-4cb6-aecd-6ad18bb00fe2",
+            "id": "66",
+            "name": "[Video] Cách khóa Facebook tạm thời, vĩnh viễn cực kỳ nhanh chóng - Thegioididong.com",
+            "type": "url",
+            "url": "https://www.thegioididong.com/hoi-dap/cach-khoa-tai-khoan-facebook-tam-thoi-1046669"
+         }, {
+            "date_added": "13340895429613380",
+            "date_last_used": "0",
+            "guid": "9e1e1fbe-cea1-4634-a478-4866ebd1f409",
+            "id": "67",
+            "name": "Biểu đồ không có tiêu đề.drawio - draw.io",
+            "type": "url",
+            "url": "https://app.diagrams.net/#G1Y4VUZ_si93B6xhbfN0hgeGJlnj3gRqUC"
+         }, {
+            "date_added": "13328265368289954",
+            "date_last_used": "0",
+            "guid": "e5702e74-e787-4d72-8bb8-aeaa4a7abf9f",
+            "id": "68",
+            "name": "Game Cây trồng nổi giận 2 - Game Vui",
+            "type": "url",
+            "url": "https://gamevui.vn/cay-trong-noi-gian-2/game"
+         }, {
+            "date_added": "13326205837585631",
+            "date_last_used": "0",
+            "guid": "59db6df8-c029-43a9-8027-baef15a3b51b",
+            "id": "69",
+            "name": "Struct trong C++ - Học Lập trình C++ online - Viettuts",
+            "type": "url",
+            "url": "https://viettuts.vn/lap-trinh-cpp/struct-trong-cpp"
+         }, {
+            "date_added": "13328902767818796",
+            "date_last_used": "0",
+            "guid": "d87894db-f1be-488d-bce7-23907f2d0f39",
+            "id": "70",
+            "name": "HTML attribute: autocomplete - HTML: HyperText Markup Language | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes/autocomplete#values"
+         }, {
+            "date_added": "13328902785970643",
+            "date_last_used": "0",
+            "guid": "825d9544-ded9-463c-a175-6038e1832a83",
+            "id": "71",
+            "name": "\u003Clabel>: The Label element - HTML: HyperText Markup Language | MDN",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label"
+         }, {
+            "date_added": "13329633771524017",
+            "date_last_used": "0",
+            "guid": "62a783cc-bb68-4b6a-ae39-d949b9d8c639",
+            "id": "72",
+            "name": "Luyện Code - Học lập trình tương tác trực tuyến",
+            "type": "url",
+            "url": "https://oj.luyencode.net/"
+         }, {
+            "date_added": "13329653329192108",
+            "date_last_used": "0",
+            "guid": "0f601957-9e98-4550-87bd-edcbdab52499",
+            "id": "73",
+            "name": "Game Pokemon đại chiến 2 - Pokemon Go - Game Vui",
+            "type": "url",
+            "url": "https://gamevui.vn/pokemon-dai-chien-2/game"
+         }, {
+            "date_added": "13330256229425307",
+            "date_last_used": "0",
+            "guid": "56d3a374-30ca-4875-9add-e1a348c46bf4",
+            "id": "74",
+            "name": "Pinterest",
+            "type": "url",
+            "url": "https://www.pinterest.com/"
+         }, {
+            "date_added": "13330352268881578",
+            "date_last_used": "0",
+            "guid": "bf199109-3cca-4c9a-9b8d-b4ae183db2ad",
+            "id": "75",
+            "name": "Giải 1000 bài tập kĩ thuật lập trình – Thầy Nguyễn Tấn Trần Minh Khang – Khám phá thế giới lập trình Trí Tuệ Nhân Tạo",
+            "type": "url",
+            "url": "https://tuhoclaptrinhsite.wordpress.com/giai-1000-bai-tap-ki-thuat-lap-trinh-thay-nguyen-tan-tran-minh-khang/"
+         }, {
+            "date_added": "13330520320372874",
+            "date_last_used": "0",
+            "guid": "a8c22de1-01b5-419c-b3a8-f604bd240460",
+            "id": "76",
+            "name": "Tutorials List - Javatpoint",
+            "type": "url",
+            "url": "https://www.javatpoint.com/"
+         }, {
+            "date_added": "13331362476055471",
+            "date_last_used": "0",
+            "guid": "fe6d38bf-fb3e-45ab-b34b-d30005038246",
+            "id": "77",
+            "name": "Deploy content using FTP/S - Azure App Service | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/vi-vn/azure/app-service/deploy-ftp?tabs=cli"
+         }, {
+            "date_added": "13333398350710758",
+            "date_last_used": "0",
+            "guid": "92ab5a47-f357-4e43-baa5-fb5f75b7aecf",
+            "id": "78",
+            "name": "Deep learning Machine Learning with python - Techprofree",
+            "type": "url",
+            "url": "https://www.techprofree.com/deep-learning-with-python/"
+         }, {
+            "date_added": "13333567840425959",
+            "date_last_used": "0",
+            "guid": "5b607634-7392-4ebd-b922-7d685eecdb5e",
+            "id": "79",
+            "name": "Cross-site scripting (XSS) from Basic to Advanced",
+            "type": "url",
+            "url": "https://www.novaexperience.net/cross-site-scripting-xss-from-basic-to-advanced/?fbclid=IwAR11kIPXe6jlJ_SsuGtx8BbgPaVHW4KrZbnkvNrrPM8p11KFXuoi4Pttqs8"
+         }, {
+            "date_added": "13333725443488290",
+            "date_last_used": "0",
+            "guid": "efdc4831-5043-42d8-a2fe-56c3b9672896",
+            "id": "80",
+            "name": "Máy Chủ Dell PowerEdge R440 (70233907) (Intel Xeon Silver 4210R, Ram 16GB/ 600GB 10K RPM SAS, iDRAC9Ent, DVDRW, 550W)",
+            "type": "url",
+            "url": "https://philong.com.vn/may-chu-dell-poweredge-r440-70233907-intel-xeon-silver-4210r-ram-16gb-600gb-10k-rpm-sas-idrac9ent-dvdrw-550w.html"
+         }, {
+            "date_added": "13333922845890966",
+            "date_last_used": "0",
+            "guid": "bf10c5dc-d4f4-48e7-a51b-c38088d49023",
+            "id": "81",
+            "name": "#2. Cách gỡ TRIỆT ĐỂ phần mềm Visual Studio Code trên Window | unitop.vn - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=vFifTKT70GQ"
+         }, {
+            "date_added": "13334063326726204",
+            "date_last_used": "0",
+            "guid": "1ac11ac3-e0d6-4d90-9049-102bbf6fb52c",
+            "id": "82",
+            "name": "Monkeytype | A minimalistic, customizable typing test",
+            "type": "url",
+            "url": "https://monkeytype.com/"
+         }, {
+            "date_added": "13334070864986385",
+            "date_last_used": "0",
+            "guid": "d280eb08-1af1-43a7-bd65-e45dd560b052",
+            "id": "83",
+            "name": "Python Archives - Techringe",
+            "type": "url",
+            "url": "https://www.techringe.com/category/projects/python/"
+         }, {
+            "date_added": "13334769457806543",
+            "date_last_used": "0",
+            "guid": "ff8fddb6-ba4f-4afc-a193-e18d854bc4e9",
+            "id": "84",
+            "name": "SQL Server là gì? Hướng dẫn cài đặt SQL Server đơn giản",
+            "type": "url",
+            "url": "https://vietnix.vn/sql-server-la-gi/"
+         }, {
+            "date_added": "13334769482549683",
+            "date_last_used": "0",
+            "guid": "297d9093-4ed7-4b98-942c-f9ba129c96b4",
+            "id": "85",
+            "name": "SQL Server Downloads | Microsoft",
+            "type": "url",
+            "url": "https://www.microsoft.com/en-in/sql-server/sql-server-downloads"
+         }, {
+            "date_added": "13334870724719198",
+            "date_last_used": "0",
+            "guid": "7a44070d-e7e5-4d72-bb43-08f5388aec5c",
+            "id": "86",
+            "name": "Thay mặt kính sau , nắp lưng Xiaomi 12T | 12T Pro chính hãng tại TPHCM",
+            "type": "url",
+            "url": "https://saigonso.com/thay-mat-kinh-sau-xiaomi-12t-pro"
+         }, {
+            "date_added": "13335942050383703",
+            "date_last_used": "0",
+            "guid": "c68b2bd0-6e31-4c3a-a2e8-039016081395",
+            "id": "87",
+            "name": "Giới thiệu Chương trình Đào tạo - Đại học Duy Tân",
+            "type": "url",
+            "url": "https://courses.duytan.edu.vn/Sites/Home_ChuongTrinhDaoTao.aspx?p=home_listpolproc&infowebpartid=1"
+         }, {
+            "date_added": "13344101744634489",
+            "date_last_used": "0",
+            "guid": "63f02ebe-9007-4a94-ae53-d8a53f217cbb",
+            "id": "88",
+            "name": "Login",
+            "type": "url",
+            "url": "https://www.roblox.com/login"
+         }, {
+            "date_added": "13341346955798219",
+            "date_last_used": "0",
+            "guid": "a88eaf16-6447-4262-a739-6f4ec9ff62e2",
+            "id": "89",
+            "name": "Minhshop.vn - Áo Hoodie Adidas Black/White * [GK9046]",
+            "type": "url",
+            "url": "https://minhshop.vn/san-pham/ao-hoodie-adidas-black-white-gk9046/9069"
+         }, {
+            "date_added": "13348259940993463",
+            "date_last_used": "0",
+            "guid": "2d455e8f-a7e0-4a67-86f0-ed865284399f",
+            "id": "90",
+            "name": "AIPRM for ChatGPT",
+            "type": "url",
+            "url": "https://chromewebstore.google.com/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj"
+         }, {
+            "date_added": "13354469686955356",
+            "date_last_used": "0",
+            "guid": "3fefe9e1-1cbb-4da9-a648-022afa67a6df",
+            "id": "91",
+            "name": "Git - Git Configuration",
+            "type": "url",
+            "url": "https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration"
+         }, {
+            "date_added": "13354648935466166",
+            "date_last_used": "0",
+            "guid": "c97ef950-e398-4790-a68f-21921de1745a",
+            "id": "92",
+            "name": "Downloads · TortoiseSVN",
+            "type": "url",
+            "url": "https://tortoisesvn.net/downloads.html"
+         }, {
+            "date_added": "13355662576580643",
+            "date_last_used": "0",
+            "guid": "dbdb65ca-f591-4675-a305-a0c46b5ad5aa",
+            "id": "93",
+            "name": "Google Keep",
+            "type": "url",
+            "url": "https://keep.google.com/u/0/#home"
+         }, {
+            "date_added": "13357994779370131",
+            "date_last_used": "0",
+            "guid": "f6dc18ba-02b2-4300-a2ac-408ed5c07072",
+            "id": "94",
+            "name": "Lịch vạn niên 2024 - Xem lịch âm, lịch dương, giờ hoàng đạo theo ngày tháng",
+            "type": "url",
+            "url": "https://www.24h.com.vn/lich-van-nien-c936.html"
+         }, {
+            "date_added": "13363028288413326",
+            "date_last_used": "0",
+            "guid": "608ea495-4e35-4f6e-bba6-2b9bb6383d56",
+            "id": "95",
+            "name": "DevDocs API Documentation",
+            "type": "url",
+            "url": "https://devdocs.io/"
+         }, {
+            "date_added": "13355951983881146",
+            "date_last_used": "0",
+            "guid": "cbfa8bd7-74dc-4886-ac12-19c882820f52",
+            "id": "96",
+            "name": "DEV Community",
+            "type": "url",
+            "url": "https://dev.to/"
+         }, {
+            "date_added": "13355952584217630",
+            "date_last_used": "0",
+            "guid": "802f7625-dff5-41a2-857e-e76ccdb69acb",
+            "id": "97",
+            "name": "Crash Course on Python - Hello Python! - Week 1 | Coursera",
+            "type": "url",
+            "url": "https://www.coursera.org/learn/python-crash-course/home/module/1"
+         }, {
+            "date_added": "13359266403231254",
+            "date_last_used": "0",
+            "guid": "b0d2ad21-5ba7-45a5-8853-4b9d0176820f",
+            "id": "98",
+            "name": "Tính tổng các số trong mảng trong Java - Freetuts",
+            "type": "url",
+            "url": "https://freetuts.net/tinh-tong-cac-so-trong-mang-java-2587.html"
+         }, {
+            "date_added": "13361575753425523",
+            "date_last_used": "0",
+            "guid": "4a4cf508-faa3-4899-9efc-d43d123210c9",
+            "id": "99",
+            "name": "Log in - CodeGym Ask",
+            "type": "url",
+            "url": "https://ask.codegym.vn/index.php?qa=login&to=index.php%3Fqa%3Dask"
+         }, {
+            "date_added": "13362500774678191",
+            "date_last_used": "0",
+            "guid": "2e81e061-e9d2-4174-bbd5-c0400b17a589",
+            "id": "100",
+            "name": "Free Git Course With Certification [2024]",
+            "type": "url",
+            "url": "https://www.simplilearn.com/learn-git-basics-skillup"
+         }, {
+            "date_added": "13365692884167132",
+            "date_last_used": "0",
+            "guid": "b1dec5d8-1502-4e1e-ac82-5b268e72df84",
+            "id": "101",
+            "name": "Hình Nền Cảnh Nghiên Cứu Khoa Học Viễn Tưởng Tải Về Miễn Phí, Hình ảnh mô hình, kênh, 3d Sáng Tạo Từ Lovepik",
+            "type": "url",
+            "url": "https://vn.lovepik.com/image-401209303/science-fiction-research-scene.html?s"
+         }, {
+            "date_added": "13365697383583546",
+            "date_last_used": "0",
+            "guid": "4ee336b4-a64e-47ab-a98d-ed2e6eff8b9d",
+            "id": "102",
+            "name": "Boxicons : Premium web friendly icons for free",
+            "type": "url",
+            "url": "https://boxicons.com/"
+         }, {
+            "date_added": "13365698306468514",
+            "date_last_used": "0",
+            "guid": "cd6fe066-db35-45d9-b71d-282c0f30d0bc",
+            "id": "103",
+            "name": "Bootstrap · The most popular HTML, CSS, and JS library in the world.",
+            "type": "url",
+            "url": "https://getbootstrap.com/"
+         }, {
+            "date_added": "13371065117021244",
+            "date_last_used": "0",
+            "guid": "4d7b3263-654a-4121-9c49-97254a390a0d",
+            "id": "104",
+            "name": "DartPad",
+            "type": "url",
+            "url": "https://dartpad.dev/"
+         }, {
+            "date_added": "13371065673573524",
+            "date_last_used": "0",
+            "guid": "44f8a70e-d6f6-4d96-a450-3ee22feef651",
+            "id": "105",
+            "name": "Docs | Flutter",
+            "type": "url",
+            "url": "https://docs.flutter.dev/"
+         }, {
+            "date_added": "13371443519916979",
+            "date_last_used": "0",
+            "guid": "bf9e7dbc-d536-4d77-a662-bf09882bad18",
+            "id": "106",
+            "name": "Flutter - Dart API docs",
+            "type": "url",
+            "url": "https://api.flutter.dev/index.html"
+         }, {
+            "date_added": "13371634169678264",
+            "date_last_used": "0",
+            "guid": "59020270-9032-49cf-975f-ed61d20d2bbc",
+            "id": "107",
+            "name": "Learn",
+            "type": "url",
+            "url": "https://flutter.dev/learn"
+         }, {
+            "date_added": "13372421783773933",
+            "date_last_used": "0",
+            "guid": "eba6b25d-cbdb-4f1f-85ae-5d2d6f21d26e",
+            "id": "108",
+            "name": "Tự học Flutter 2023 - lộ trình từ cơ bản tới nâng cao",
+            "type": "url",
+            "url": "https://tuhocflutter.dev/index.html"
+         }, {
+            "date_added": "13372716719312882",
+            "date_last_used": "0",
+            "guid": "db0030c9-a5bd-4b12-9f75-aa04c40b31dd",
+            "id": "109",
+            "name": "Công cụ dành cho nhà phát triển ứng dụng Android – Nhà phát triển Android  |  Android Developers",
+            "type": "url",
+            "url": "https://developer.android.com/?hl=vi"
+         }, {
+            "date_added": "13372722792523632",
+            "date_last_used": "0",
+            "guid": "8ec7b6a7-b99f-4cc4-9d50-c930f6dc7a9f",
+            "id": "110",
+            "name": "Tự học ngôn ngữ Dart: Collection của ngôn ngữ Dart",
+            "type": "url",
+            "url": "https://200lab.io/blog/tu-hoc-ngon-dart-collection/"
+         }, {
+            "date_added": "13369767264273979",
+            "date_last_used": "0",
+            "guid": "9327131c-77ff-4c14-93ed-1fc6beb87225",
+            "id": "111",
+            "name": "(14) YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13371288263012296",
+            "date_last_used": "0",
+            "guid": "aac144dd-ad26-400a-91fc-223447455ef4",
+            "id": "112",
+            "name": "Codeium · Free AI Code Completion & Chat",
+            "type": "url",
+            "url": "https://codeium.com/"
+         }, {
+            "date_added": "13350938300653644",
+            "date_last_used": "0",
+            "guid": "eec6f1db-3315-49c8-98ac-0a732f2b4a0a",
+            "id": "113",
+            "name": "Code Learn",
+            "type": "url",
+            "url": "https://codelearn.io/learning"
+         }, {
+            "date_added": "13335037196051592",
+            "date_last_used": "0",
+            "guid": "a1d5ad9d-2a0c-43f6-8466-2963c75b62ad",
+            "id": "114",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
+         }, {
+            "date_added": "13350642550084246",
+            "date_last_used": "0",
+            "guid": "181b3f60-5d76-47f9-9a86-5d5d8da998ad",
+            "id": "115",
+            "name": "Info webpart",
+            "type": "url",
+            "url": "https://mydtu.duytan.edu.vn/Sites/index.aspx?p=home_infowebpart&functionid=88"
+         }, {
+            "date_added": "13341401231724936",
+            "date_last_used": "0",
+            "guid": "ae611f0f-8f44-43e7-b7f7-702b869d6be7",
+            "id": "116",
+            "name": "Spotify - Web Player: Music for everyone",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13371017261376296",
+            "date_last_used": "0",
+            "guid": "aaa47dc5-8830-4ded-a4e1-59cf583e1a59",
+            "id": "117",
+            "name": "17 tài liệu thiết kế app Android miễn phí chất nhất - Mevivu Technology - Dịch vụ thiết kế App & Website tphcm chuyên nghiệp",
+            "type": "url",
+            "url": "https://mevivu.com/17-tai-lieu-thiet-ke-app-android-mien-phi-chat-nhat/"
+         }, {
+            "date_added": "13370466035010586",
+            "date_last_used": "0",
+            "guid": "75aa285b-4a83-45cd-b11a-6b8dc51a8322",
+            "id": "118",
+            "name": "XAMPP Installers and Downloads for Apache Friends",
+            "type": "url",
+            "url": "https://www.apachefriends.org/index.html"
+         }, {
+            "date_added": "13372720917340409",
+            "date_last_used": "0",
+            "guid": "44e77fb6-100d-47d3-8475-8f943b06a2b0",
+            "id": "119",
+            "name": "Dependency Injection trong Android",
+            "type": "url",
+            "url": "https://viblo.asia/p/dependency-injection-trong-android-RnB5p3PYlPG"
+         }, {
+            "date_added": "13376006329330342",
+            "date_last_used": "0",
+            "guid": "a81accb9-b534-4093-add6-d23bf2d90651",
+            "id": "120",
+            "name": "Chat Blackbox: AI Code Generation, Code Chat, Code Search",
+            "type": "url",
+            "url": "https://www.blackbox.ai/"
+         } ],
+         "date_added": "13385446684013688",
+         "date_last_used": "0",
+         "date_modified": "13376006329330342",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [  ],
+            "date_added": "13323674985000316",
+            "date_last_used": "0",
+            "date_modified": "13323674985000316",
+            "guid": "3d7e8c16-466f-4d1f-8c4a-8ced389000ff",
+            "id": "12",
+            "name": "Bookmark Bar",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13355263146785543",
+               "date_last_used": "0",
+               "guid": "891ce949-8bab-4569-b1a0-bd6d03eaf6f6",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Giải thuật và lập trình: §2. Phương pháp sinh (GENERATION) | V1Study",
+               "type": "url",
+               "url": "https://v1study.com/giai-thuat-va-lap-trinh-phuong-phap-sinh-generation.html"
+            }, {
+               "date_added": "13355585798503978",
+               "date_last_used": "0",
+               "guid": "1833de13-900d-482e-8560-10465a85023d",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Facebook",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "date_added": "13355598698378053",
+               "date_last_used": "0",
+               "guid": "f53f13b3-2a36-4081-b9f6-a6388123e1e9",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "*Cau hoi on tap.pdf",
+               "type": "url",
+               "url": "file:///D:/TaiLieuRoiRac/Cau%20hoi%20on%20tap.pdf"
+            }, {
+               "date_added": "13355620904371433",
+               "date_last_used": "0",
+               "guid": "05e37199-9161-4bc7-a2a7-66b991688dc1",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "*DE-1.1-CAU-HOI-TRAC-NGHIEM-20-CAU (1).pdf",
+               "type": "url",
+               "url": "file:///C:/Users/ACER/Downloads/DE-1.1-CAU-HOI-TRAC-NGHIEM-20-CAU%20(1).pdf"
+            }, {
+               "date_added": "13384407174321009",
+               "date_last_used": "0",
+               "guid": "72870755-b4f7-482b-9275-7de00a3588aa",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "The Road to learn React.pdf",
+               "type": "url",
+               "url": "file:///C:/Users/ASUS/AppData/Local/Temp/12765ad0-e2fa-4100-97fc-467bde990806_Bo%CC%A3%CC%82%20Ta%CC%80i%20Lie%CC%A3%CC%82u%20React.zip.806/Full%20Bo%E2%95%A0%C3%BA%E2%95%A0%C3%A9%20Ta%E2%95%A0%C3%87i%20Lie%E2%95%A0%C3%BA%E2%95%A0%C3%A9u%20React/The%20Road%20to%20learn%20React.pdf"
+            } ],
+            "date_added": "13323674985000544",
+            "date_last_used": "0",
+            "date_modified": "13384407174321009",
+            "guid": "cf6563fa-bbb2-47a1-b2f8-e33a1219b4da",
+            "id": "13",
+            "name": "Other Bookmarks",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13341346549062929",
+               "date_last_used": "0",
+               "guid": "b6b034e8-18f1-42a5-a9ae-75c46a1ce0ea",
+               "id": "20",
+               "name": "Đăng nhập - Tài khoản Google",
+               "type": "url",
+               "url": "https://accounts.google.com/signin/challenge/marl/sgo?marl=ABHrDGTT_U213vAvVDiyLZ3hNogNbJGzy-uPNac-nS7TGpu-BX86hLZK9QVtn5UCAcNZuQ3nmvQvhg28ZrNbzS-T3nX9ghRWwJdSuC-v7a7eXteyIp-0TQF3pF6k6XIHiZdWJH4gjlD-1vc5wp6sYtjnk9Ldvq49Iw&hl=vi"
+            }, {
+               "date_added": "13344119599644144",
+               "date_last_used": "0",
+               "guid": "80fa0768-4fbc-4ba3-8e05-70fa1ee2c5e9",
+               "id": "21",
+               "name": "draw.io",
+               "type": "url",
+               "url": "https://app.diagrams.net/#"
+            }, {
+               "date_added": "13345489837430099",
+               "date_last_used": "0",
+               "guid": "2ba178f7-dc0c-47fb-8b47-7939c0ef8765",
+               "id": "22",
+               "name": "Cài đặt, Lập trình Java trên VS Code Qua Ví dụ",
+               "type": "url",
+               "url": "https://niithanoi.edu.vn/cai-dat-lap-trinh-java-tren-vs-code-qua-vi-du.html"
+            }, {
+               "date_added": "13347272337798962",
+               "date_last_used": "0",
+               "guid": "45e2dffd-8151-45f0-bf2e-daa97a2b2604",
+               "id": "23",
+               "name": "Từ điển Glosbe - Tất cả các ngôn ngữ ở một nơi",
+               "type": "url",
+               "url": "https://glosbe.com/"
+            }, {
+               "date_added": "13347280284422213",
+               "date_last_used": "0",
+               "guid": "69cd6efd-a256-490d-8158-d82b292d5367",
+               "id": "24",
+               "name": "Recents and Sharing – Figma",
+               "type": "url",
+               "url": "https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1318150367273980006"
+            }, {
+               "date_added": "13347560307304628",
+               "date_last_used": "0",
+               "guid": "12b7a09f-60f6-4fcc-a660-e8a17fc5c758",
+               "id": "25",
+               "name": "Trang chủ – Netflix",
+               "type": "url",
+               "url": "https://www.netflix.com/browse"
+            }, {
+               "date_added": "13347777818755468",
+               "date_last_used": "0",
+               "guid": "9971c3c6-3ff8-439f-823f-63a6eb5b4dc3",
+               "id": "26",
+               "name": "Giới thiệu Chương trình Đào tạo - Đại học Duy Tân",
+               "type": "url",
+               "url": "https://courses.duytan.edu.vn/Sites/Home_ChuongTrinhDaoTao.aspx?p=home_listcoursedetail&courseid=586&timespan=84&t=s"
+            } ],
+            "date_added": "13355695271657477",
+            "date_last_used": "0",
+            "date_modified": "13355695271657477",
+            "guid": "855faaed-79f1-4f5c-9041-14f7064881d1",
+            "id": "19",
+            "name": "Game",
+            "type": "folder"
+         }, {
+            "date_added": "13341398981341291",
+            "date_last_used": "0",
+            "guid": "9f86e3e9-f81e-42d9-853d-14f7ddc8866e",
+            "id": "27",
+            "name": "LifeAt Spaces",
+            "type": "url",
+            "url": "https://lifeat.io/room/8019edef-db1b-49f7-b631-acd6bc4bc3e3?cal=true&space=372&host=D%C5%A9ng%27s+Room"
+         }, {
+            "date_added": "13341401231724936",
+            "date_last_used": "0",
+            "guid": "92beee77-5e56-4204-9be5-ca421fecce5d",
+            "id": "28",
+            "name": "Spotify - Web Player: Music for everyone",
+            "type": "url",
+            "url": "https://open.spotify.com/"
+         }, {
+            "date_added": "13350491706402847",
+            "date_last_used": "0",
+            "guid": "4e45f1f2-beb6-4e97-90d8-282f5bfeab06",
+            "id": "29",
+            "name": "Data Structure Visualization",
+            "type": "url",
+            "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html"
+         }, {
+            "date_added": "13350642550084246",
+            "date_last_used": "0",
+            "guid": "bf8f768f-8ff7-4120-b9b4-3e4f90dda356",
+            "id": "30",
+            "name": "Info webpart",
+            "type": "url",
+            "url": "https://mydtu.duytan.edu.vn/Sites/index.aspx?p=home_infowebpart&functionid=88"
+         }, {
+            "date_added": "13350676549449324",
+            "date_last_used": "0",
+            "guid": "abec6f0c-d819-47ad-b3bc-9914cc37ab39",
+            "id": "31",
+            "name": "Download Excel 2019 Professional Plus - Ứng dụng tạo bảng tính Excel 2",
+            "type": "url",
+            "url": "https://taimienphi.vn/download-excel-2019-74779#showlink"
+         }, {
+            "date_added": "13350877914231247",
+            "date_last_used": "0",
+            "guid": "5137e8e4-2d40-4d1e-bec3-5444e6d5b99a",
+            "id": "32",
+            "name": "Google Dịch",
+            "type": "url",
+            "url": "https://translate.google.com/?hl=vi&sl=en&tl=vi&text=System%20Integration%20Practices&op=translate"
+         }, {
+            "date_added": "13350878077484177",
+            "date_last_used": "0",
+            "guid": "864ec704-a87a-4142-a2a2-cb7b8d6bf74d",
+            "id": "33",
+            "name": "TÀI LIỆU BÁCH KHOA: tailieu",
+            "type": "url",
+            "url": "https://www.tailieubkhn.com/search/label/tailieu"
+         }, {
+            "date_added": "13350936594046448",
+            "date_last_used": "0",
+            "guid": "2d8fe800-ef20-4252-b9b9-4dc44396b500",
+            "id": "34",
+            "name": "Lập trình C cơ bản",
+            "type": "url",
+            "url": "https://tek4.vn/khoa-hoc/lap-trinh-c-co-ban-den-nang-cao"
+         }, {
+            "date_added": "13350936602724932",
+            "date_last_used": "0",
+            "guid": "a950a3e3-7143-417a-9bc3-8101fba7c633",
+            "id": "35",
+            "name": "Khóa học lập trình C++ căn bản | How Kteam",
+            "type": "url",
+            "url": "https://howkteam.vn/course/khoa-hoc-lap-trinh-c-can-ban-4"
+         }, {
+            "date_added": "13350936830188254",
+            "date_last_used": "0",
+            "guid": "844a326c-52c7-4eeb-81f6-e7d705fa7067",
+            "id": "36",
+            "name": "Home - CodeHelp",
+            "type": "url",
+            "url": "https://www.thecodehelp.in/"
+         }, {
+            "date_added": "13350938080389921",
+            "date_last_used": "0",
+            "guid": "14ce091a-f418-4558-a0f3-55c9df54b797",
+            "id": "37",
+            "name": "Hướng Dẫn Cài Đặt Visual Studio Code Lập Trình C++",
+            "type": "url",
+            "url": "https://codelearn.io/sharing/huong-dan-cai-dat-visual-studio-code-lap-trinh-cpp"
+         }, {
+            "date_added": "13350938300653644",
+            "date_last_used": "0",
+            "guid": "dab26f42-b8c8-4cce-a6ad-76c0d8a3a300",
+            "id": "38",
+            "name": "Code Learn",
+            "type": "url",
+            "url": "https://codelearn.io/learning"
+         }, {
+            "date_added": "13350939384111865",
+            "date_last_used": "0",
+            "guid": "86e5e3e2-137b-44a3-a596-3482d5b77f25",
+            "id": "39",
+            "name": "Cài đặt môi trường C++ | 101 bài hướng dẫn C++ hay nhất",
+            "type": "url",
+            "url": "https://vietjack.com/cplusplus/huong_dan_cai_dat_cplusplus.jsp"
+         }, {
+            "date_added": "13350939391025369",
+            "date_last_used": "0",
+            "guid": "1bfc0ec3-ee67-4b4f-bae4-64758627f482",
+            "id": "40",
+            "name": "Cài đặt môi trường C++ - QuanTriMang.com",
+            "type": "url",
+            "url": "https://quantrimang.com/hoc/cai-dat-moi-truong-cho-cplusplus-156168"
+         }, {
+            "date_added": "13350990130928485",
+            "date_last_used": "0",
+            "guid": "c6c0d561-b53c-4ac2-b0de-c091a31fd0d6",
+            "id": "41",
+            "name": "Cổng thông tin Đại học Duy Tân - Đà Nẵng - Việt Nam",
+            "type": "url",
+            "url": "https://mydtu.duytan.edu.vn/Signin.aspx"
+         }, {
+            "date_added": "13351071460369127",
+            "date_last_used": "0",
+            "guid": "566ee603-95c7-4b76-8a24-9e2dbeb58e93",
+            "id": "42",
+            "name": "Hosting Accounts - InfinityFree",
+            "type": "url",
+            "url": "https://dash.infinityfree.com/accounts"
+         }, {
+            "date_added": "13351333306611363",
+            "date_last_used": "0",
+            "guid": "fc6c1f09-1846-41cc-aca7-3667ca750ffe",
+            "id": "43",
+            "name": "12 LỖI PHẦN MỀM MÀ MỌI TESTER NÊN BIẾT - iViettech - iViettech",
+            "type": "url",
+            "url": "https://iviettech.vn/blog/11685-12-loi-phan-mem-ma-moi-tester-nen-biet.html"
+         }, {
+            "date_added": "13351333481009942",
+            "date_last_used": "0",
+            "guid": "ec4908e7-610a-4f2e-ad60-57a74ef4072e",
+            "id": "44",
+            "name": "Problems - LeetCode",
+            "type": "url",
+            "url": "https://leetcode.com/problemset/"
+         }, {
+            "children": [ {
+               "date_added": "13378969506528384",
+               "date_last_used": "0",
+               "guid": "51129513-6a58-4c01-b4d8-80e722f65bf1",
+               "id": "46",
+               "name": "Best of 2021 - How to Combine DevOps and Agile - DevOps.com",
+               "type": "url",
+               "url": "https://devops.com/how-to-combine-devops-and-agile/"
+            }, {
+               "date_added": "13378969534158752",
+               "date_last_used": "0",
+               "guid": "e9639d14-f6d4-46ee-a34d-0a8cccae4dbd",
+               "id": "47",
+               "name": "Agile vs DevOps: What's the Difference?",
+               "type": "url",
+               "url": "https://www.cmswire.com/information-management/agile-vs-devops-whats-the-difference/"
+            }, {
+               "date_added": "13378969568788915",
+               "date_last_used": "0",
+               "guid": "609a2002-01b3-43fc-8776-629528d3a31e",
+               "id": "48",
+               "name": "The Convergence of Scrum and DevOps | Scrum.org",
+               "type": "url",
+               "url": "https://www.scrum.org/resources/convergence-scrum-and-devops"
+            }, {
+               "date_added": "13378969861064251",
+               "date_last_used": "0",
+               "guid": "c8f7e999-9714-4da5-bde2-0bce86c4b5e3",
+               "id": "49",
+               "name": "Google Career Certificates: Study Group · Lịch sự kiện",
+               "type": "url",
+               "url": "https://lu.ma/GoogleCareerCertificatesStudyGroup"
+            }, {
+               "date_added": "13378980711191303",
+               "date_last_used": "0",
+               "guid": "500722c5-a131-4b51-8f6c-3060ada9fb2a",
+               "id": "50",
+               "name": "Course 5 glossary | Coursera",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/agile-project-management/supplement/JN3Yq/course-5-glossary"
+            } ],
+            "date_added": "13379890827874943",
+            "date_last_used": "0",
+            "date_modified": "13379890827874943",
+            "guid": "0e5e0485-8712-40e4-b7ac-fdf1a2f44281",
+            "id": "45",
+            "name": "Project ",
+            "type": "folder"
+         }, {
+            "date_added": "13377860104077614",
+            "date_last_used": "0",
+            "guid": "e2a835d2-c265-4314-bee3-b505dc9c2129",
+            "id": "51",
+            "name": "Sider",
+            "type": "url",
+            "url": "chrome-extension://difoiogjjojoaoomphldepapgpbgkhkb/standalone.html?from=sidebar"
+         }, {
+            "date_added": "13378118009301598",
+            "date_last_used": "0",
+            "guid": "123fa62b-efed-4dc5-9427-d18e94ada66a",
+            "id": "52",
+            "name": "Coursera | Online Courses From Top Universities. Join for Free",
+            "type": "url",
+            "url": "https://www.coursera.org/accomplishments"
+         }, {
+            "date_added": "13378966035410180",
+            "date_last_used": "0",
+            "guid": "4d7ef73f-37b1-446c-a714-40e60c323bf3",
+            "id": "53",
+            "name": "All Folders | Phạm Thanh's Workspace (Overview)",
+            "type": "url",
+            "url": "https://app.clickup.com/9018744631/v/o/s/90182579256"
+         } ],
+         "date_added": "13385446684013693",
+         "date_last_used": "0",
+         "date_modified": "13378966035410180",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13281293843978122",
+            "date_last_used": "0",
+            "guid": "ff567845-7b33-4252-a86f-cd00699087f4",
+            "id": "6",
+            "name": "Thẻ mới",
+            "type": "url",
+            "url": "chrome-native://newtab/"
+         }, {
+            "date_added": "13368380450575074",
+            "date_last_used": "0",
+            "guid": "da29a9a4-244d-4ebe-8183-b6e6f0a8462a",
+            "id": "7",
+            "name": "Nỗ Lực Của Gia Sư - SayHentai",
+            "type": "url",
+            "url": "https://sayhentai.one/truyen-no-luc-cua-gia-su.html"
+         }, {
+            "date_added": "13371038810262126",
+            "date_last_used": "0",
+            "guid": "4395837e-4270-4655-8535-fa343b1fe9bb",
+            "id": "8",
+            "name": "FUNCYVPN NETWORK",
+            "type": "url",
+            "url": "https://funcyvpn.com/#/dashboard"
+         }, {
+            "date_added": "13371064867408684",
+            "date_last_used": "0",
+            "guid": "4ecad10c-3544-4a39-9408-62b286b666c1",
+            "id": "9",
+            "name": "Make Android apps | Flutter",
+            "type": "url",
+            "url": "https://docs.flutter.dev/get-started/install/windows/mobile"
+         }, {
+            "date_added": "13371064873216714",
+            "date_last_used": "0",
+            "guid": "d7252d06-f94a-42e1-8c16-132d73b3e058",
+            "id": "10",
+            "name": "Dart programming language | Dart",
+            "type": "url",
+            "url": "https://dart.dev/"
+         }, {
+            "date_added": "13371065007175647",
+            "date_last_used": "0",
+            "guid": "0f742af7-c85d-4fb4-90c0-c32132de3128",
+            "id": "11",
+            "name": "Assets and images | Flutter",
+            "type": "url",
+            "url": "https://docs.flutter.dev/ui/assets/assets-and-images"
+         } ],
+         "date_added": "13385446684013696",
+         "date_last_used": "0",
+         "date_modified": "13371065007175647",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

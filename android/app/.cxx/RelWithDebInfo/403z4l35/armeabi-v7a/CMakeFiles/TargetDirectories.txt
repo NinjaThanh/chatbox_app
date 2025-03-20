@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Downloads/New folder/chatbox_app/android/app/.cxx/RelWithDebInfo/403z4l35/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Downloads/New folder/chatbox_app/android/app/.cxx/RelWithDebInfo/403z4l35/armeabi-v7a/CMakeFiles/rebuild_cache.dir
